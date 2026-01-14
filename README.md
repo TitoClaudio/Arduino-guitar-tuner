@@ -1,4 +1,4 @@
-# Arduino Guitar Tuner 🎸
+# Arduino Guitar Tuner
 
 A guitar tuner built from scratch using Arduino, autocorrelation-based pitch detection, and a 16x2 LCD.
 
